@@ -112,7 +112,7 @@ P{
     opacity:.75;
 }
 
-.contact-form *::placeholder{
+.contac-form *::placeholder{
     color: var(--gray-dark-color);
 }
 .contact-form-response{
@@ -370,12 +370,12 @@ background-color: var(--first-color);
 }
 .contact-card>svg{
     fill: rgb(217, 0, 98);
-    width: 4rem;
+    width: 2.5rem;
     height: 2.5rem;
 }
 .contact-card>small{
     margin-top: -1rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 .footer{
     margin-bottom:var(--header-height);
